@@ -1,10 +1,4 @@
 """
-ICS 32 Project 3
-Author: Lillian Pham
-UCI_ID: 68168196
-"""
-
-"""
 This module reads the input and constructs the objects that will generate
 the program's output
 """
