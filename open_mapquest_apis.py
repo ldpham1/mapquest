@@ -1,10 +1,4 @@
 """
-ICS 32 Project 3
-Author: Lillian Pham
-UCI_ID: 68168196
-"""
-
-"""
 This module interacts with the Open MapQuest APIs
     -Builds URLs, makes HTTP requests, parses JSON responses, etc
 """
